@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"],
+      "@components/*": ["./app/(components)/*"] // Add this line to include the missing file
+    }
+  }
+}
